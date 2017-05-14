@@ -12,3 +12,5 @@ MyBlogs collections.
 ##5.Android MD5加密工具类
 
 ##6.Android打开系统拍照&相册获取头像
+
+##7.Android设置屏幕亮度及Alpha值
