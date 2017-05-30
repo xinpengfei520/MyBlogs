@@ -18,3 +18,5 @@ MyBlogs collections.
 ## 8.Android Base64和Bitmap相互转换类
 
 ## 9.Android加载GIF图片的两种方式
+
+## 10.Android产生随机数
