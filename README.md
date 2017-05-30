@@ -16,3 +16,5 @@ MyBlogs collections.
 ## 7.Android设置屏幕亮度及Alpha值
 
 ## 8.Android Base64和Bitmap相互转换类
+
+## 9.Android加载GIF图片的两种方式
