@@ -22,3 +22,5 @@ MyBlogs collections.
 ## 10.Android产生随机数
 
 ## 11.Android点亮屏幕并解锁
+
+## 12.Android设置gif只播放一次
