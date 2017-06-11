@@ -20,3 +20,5 @@ MyBlogs collections.
 ## 9.Android加载GIF图片的两种方式
 
 ## 10.Android产生随机数
+
+## 11.Android点亮屏幕并解锁
