@@ -24,3 +24,5 @@ MyBlogs collections.
 ## 11.Android点亮屏幕并解锁
 
 ## 12.Android设置gif只播放一次
+
+## 13.Android点击其他地方隐藏键盘
