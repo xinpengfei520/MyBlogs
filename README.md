@@ -26,3 +26,5 @@ MyBlogs collections.
 ## 12.Android设置gif只播放一次
 
 ## 13.Android点击其他地方隐藏键盘
+
+## 14.Android Picasso实现圆形图片和圆角图片
