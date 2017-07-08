@@ -28,3 +28,5 @@ MyBlogs collections.
 ## 13.Android点击其他地方隐藏键盘
 
 ## 14.Android Picasso实现圆形图片和圆角图片
+
+## 15.Android使用原生动画工具类实现平移动画
