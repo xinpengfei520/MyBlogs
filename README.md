@@ -30,3 +30,5 @@ MyBlogs collections.
 ## 14.Android Picasso实现圆形图片和圆角图片
 
 ## 15.Android使用原生动画工具类实现平移动画
+
+## 16.Android 使用Glide实现圆形和圆角图片
