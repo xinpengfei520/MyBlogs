@@ -34,3 +34,5 @@ MyBlogs collections.
 ## 16.Android 使用Glide实现圆形和圆角图片
 
 ## 17.Android实现Bitmap高斯模糊效果
+
+## 18.Android最新手机号正则判断
