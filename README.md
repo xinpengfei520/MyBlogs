@@ -36,3 +36,5 @@ MyBlogs collections.
 ## 17.Android实现Bitmap高斯模糊效果
 
 ## 18.Android最新手机号正则判断
+
+## 19.Elinker dataapp...-1libarmlibserial_port.so has tex
