@@ -40,3 +40,5 @@ MyBlogs collections.
 ## 19.Elinker dataapp...-1libarmlibserial_port.so has tex
 
 ## 20.android.view.ViewRootImpl$CalledFromWrongThreadException
+
+## 21.Android设置Activity全屏的两种方式
