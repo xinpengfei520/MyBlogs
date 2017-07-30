@@ -38,3 +38,5 @@ MyBlogs collections.
 ## 18.Android最新手机号正则判断
 
 ## 19.Elinker dataapp...-1libarmlibserial_port.so has tex
+
+## 20.android.view.ViewRootImpl$CalledFromWrongThreadException
