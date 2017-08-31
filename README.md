@@ -42,3 +42,5 @@ MyBlogs collections.
 ## 20.android.view.ViewRootImpl$CalledFromWrongThreadException
 
 ## 21.Android设置Activity全屏的两种方式
+
+## 22.Android跳转到其他APP
