@@ -44,3 +44,5 @@ MyBlogs collections.
 ## 21.Android设置Activity全屏的两种方式
 
 ## 22.Android跳转到其他APP
+
+## 23.Android TextView实现跑马灯
