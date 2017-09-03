@@ -46,3 +46,5 @@ MyBlogs collections.
 ## 22.Android跳转到其他APP
 
 ## 23.Android TextView实现跑马灯
+
+## 24.Android Studio打JAR包
