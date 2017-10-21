@@ -62,3 +62,5 @@ MyBlogs collections.
 ## 30.用起来贼爽的Android Studio插件推荐
 
 ## 31.Java中equals与==区别
+
+## 32.Java内存管理与垃圾回收
