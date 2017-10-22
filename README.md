@@ -57,4 +57,16 @@ MyBlogs collections.
 
 ## 28.不得不珍藏的Chrome插件推荐
 
+<<<<<<< HEAD
 ## 29.Window10磁盘分区
+=======
+## 29.51单片机矩阵键盘C程序
+
+## 30.用起来贼爽的Android Studio插件推荐
+
+## 31.Java中equals与==区别
+
+## 32.Java内存管理与垃圾回收
+>>>>>>> fb13d043d1dd850cf070bbf58ba844192c157100
+
+## 33.《Android源码设计模式》学习笔记之ImageLoader
