@@ -70,3 +70,5 @@ MyBlogs collections.
 ## 33.《Android源码设计模式》学习笔记之ImageLoader
 
 ## 34.Android Studio添加arr依赖
+
+## 35.Android Runtime(ART)介绍
