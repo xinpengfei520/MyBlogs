@@ -82,4 +82,6 @@ MyBlogs collections.
 
 ### 39.Android adb命令大全
 
+### 40.Android打包错误
+
 // TODO 增加点击跳转和分类
