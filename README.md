@@ -86,4 +86,6 @@ MyBlogs collections.
 
 ### 41.Android Studio曲折更新之路
 
+### 42.Android截屏的几种实现
+
 // TODO 增加点击跳转和分类
