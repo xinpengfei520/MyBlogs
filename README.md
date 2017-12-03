@@ -88,4 +88,6 @@ MyBlogs collections.
 
 ### 42.Android截屏的几种实现
 
+### 43.Android实现多语言so easy
+
 // TODO 增加点击跳转和分类
