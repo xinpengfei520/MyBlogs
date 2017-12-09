@@ -90,4 +90,6 @@ MyBlogs collections.
 
 ### 43.Android实现多语言so easy
 
+### 44.java.lang.IllegalStateException commit already called
+
 // TODO 增加点击跳转和分类
