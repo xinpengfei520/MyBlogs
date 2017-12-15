@@ -94,4 +94,6 @@ MyBlogs collections.
 
 ### 45.Android EasyPermission优雅地实现动态权限申请
 
+### 46.Android检测Activity或者Service是否运行
+
 // TODO 增加点击跳转和分类
