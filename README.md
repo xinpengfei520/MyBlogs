@@ -96,4 +96,6 @@ MyBlogs collections.
 
 ### 46.Android检测Activity或者Service是否运行
 
+### 47.Android删除指定路径下指定前缀或后缀的文件
+
 // TODO 增加点击跳转和分类
