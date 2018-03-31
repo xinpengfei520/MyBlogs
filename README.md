@@ -102,4 +102,6 @@ MyBlogs collections.
 
 ### 49.Multiple dex files define Lokhttp3internalwsWebSocketProtocol
 
+### 50.Android OTG之USB转串口模块通讯
+
 // TODO 增加点击跳转和分类
