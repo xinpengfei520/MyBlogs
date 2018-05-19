@@ -108,4 +108,6 @@ MyBlogs collections.
 
 ### 52.不可错过的几款GitHub开源项目
 
+### 53.CentOS7.x 搭建 GitLab 教程
+
 // TODO 增加点击跳转和分类
