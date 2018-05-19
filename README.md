@@ -110,4 +110,6 @@ MyBlogs collections.
 
 ### 53.CentOS7.x 搭建 GitLab 教程
 
+### 54.JDBC访问MySQL数据库踩坑
+
 // TODO 增加点击跳转和分类
