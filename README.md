@@ -112,4 +112,8 @@ MyBlogs collections.
 
 ### 54.JDBC访问MySQL数据库踩坑
 
+### 55.CentOS7安装MySQL8.0
+
+### 56.CentOS7重置MySQL8.0密码
+
 // TODO 增加点击跳转和分类
