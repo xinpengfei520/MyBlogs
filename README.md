@@ -116,4 +116,6 @@ MyBlogs collections.
 
 ### 56.CentOS7重置MySQL8.0密码
 
+### 57.MySQL8.0设置远程访问权限
+
 // TODO 增加点击跳转和分类
