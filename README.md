@@ -118,4 +118,6 @@ MyBlogs collections.
 
 ### 57.MySQL8.0设置远程访问权限
 
+### 58.error please select android sdk
+
 // TODO 增加点击跳转和分类
