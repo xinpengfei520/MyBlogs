@@ -122,4 +122,6 @@ MyBlogs collections.
 
 ### 59.Java输入日期计算是这年的第几天
 
+### 60.不得不会的10点Java基础知识
+
 // TODO 增加点击跳转和分类
