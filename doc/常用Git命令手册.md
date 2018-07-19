@@ -194,6 +194,19 @@ $ git push -u origin master
 
 注意：第一次提交需要加一个参数-u,以后不需要
 
+推送master到远程库
+
+```
+$ git push origin master
+```
+
+推送branch1到远程库
+
+```
+$ git push origin branch1
+```
+推送分支时需要注意，你在那个分支时就推那个分支！例如，不可以在master分支推到其他分支上去！！！
+
 ###18.克隆一个远程库
 
 ```
@@ -238,6 +251,12 @@ $ git merge branch1
 
 ```
 $ git branch -d branch1
+```
+
+拉取一个远程的分支的同时并创建一个本地分支：
+
+```
+$ git fetch origin branch:branch
 ```
 
 ###20.查看提交的历史记录
@@ -329,18 +348,26 @@ $ git remote
 $ git remote -v
 ```
 
-###25.推送分支
+###25.拉取分支
 
-推送master到远程库
-
-```
-$ git push origin master
-```
-
-推送branch1到远程库
+拉取master到本地
 
 ```
-$ git push origin branch1
+$ git pull origin master
+```
+
+拉取 branch1 分支的内容到本地
+
+```
+$ git pull origin branch1
+```
+
+拉取时要注意本地已经有和远程分支对应了，如果没有的话，参考 19 中，拉取并创建本地分支，拉取时需要注意，你在那个分支时就拉取个分支！不可以在 master 分支拉取其他分支下来，这样会把远程的其他分支拉取下来和本地master分支合并！！！引起不必要的麻烦！
+
+如果不小心拉取下来了，就可以使用下面的命令，恢复到上一次提交：
+
+```
+$ git reset HEAD^
 ```
 
 ###26.创建本地分支
