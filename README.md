@@ -136,4 +136,8 @@ MyBlogs collections.
 
 ### 66.Android 最全 Intent 传递数据姿势
 
+### 67.深入浅出Retrofit2.x(一)
+
+### 68.深入浅出Retrofit2.x(二)
+
 // TODO 增加点击跳转和分类
