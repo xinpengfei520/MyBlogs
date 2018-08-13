@@ -140,4 +140,6 @@ MyBlogs collections.
 
 ### 68.深入浅出Retrofit2.x(二)
 
+### 69.Android冷启动白屏问题
+
 // TODO 增加点击跳转和分类
