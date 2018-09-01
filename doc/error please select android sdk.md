@@ -15,6 +15,12 @@ Error:please select android sdk
 
 ![这里写图片描述](https://img-blog.csdn.net/2018060919280432?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpbnBlbmdmZWk1MjE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
+为方便大家直接复制下面的：
+
+```
+<orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
+```
+
 修改完成后rebuild
 
 app 上的红叉消失，显示正常，点击运行，ok
