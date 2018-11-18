@@ -150,4 +150,6 @@ MyBlogs collections.
 
 ### 73.你租的房子遇 “坑” 了么？
 
+### 74.Android 设置动画变化的速率
+
 // TODO 增加点击跳转和分类
